@@ -1,6 +1,7 @@
-Hello, my name is Daniyal. I'm 15 years old, and I learn code. Now I know:
-HTML, CSS, JavaScript and Python basics.
-Soon I will know much more.
+Hello, my name is Daniyal. I'm 15 years old, and I learn code.
+I am C++ Developer. In programming from 13 years old.
+I learn c++ for about 1 month.
+Before it I learnt Python, HTML, CSS, JS and other cool stuff.
 
 I live in Nur-Sultan, Kazakhstan.
 I study in NIS IB. I'm in 9th grade.
