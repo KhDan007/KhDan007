@@ -1,5 +1,4 @@
-Hello, my name is Daniyal. I'm 16 years old, and I am learning to code.
-I am a Java Developer. I've been programming since I was 13 years old.
+Hello, my name is Daniyal, I am a Java Developer. I've been programming since I was 13 years old.
 
 I do know:
 - Java ( 1 month )
