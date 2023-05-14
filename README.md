@@ -5,7 +5,7 @@ I do know:
 - Java ( 1 month )
 - C++ ( 5 months )
 - Python ( 6 months )
-- HTML, CSS, JavaScript ( 8 months )
+- HTML, CSS, JavaScript ( 9 months )
 
 I live in Nur-Sultan, Kazakhstan.
 I study in NIS IB. I'm in the 9th grade.
