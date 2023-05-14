@@ -1,4 +1,4 @@
-Hello, my name is Daniyal, I am a Java Developer. I've been programming since I was 13 years old.
+Hello, my name is Daniyal, I am a Java Developer. I've been programming from 2020.
 
 I do know:
 - Java ( 1 month )
