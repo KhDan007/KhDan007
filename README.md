@@ -7,4 +7,4 @@ I do know:
 - HTML, CSS, JavaScript ( 9 months )
 
 I live in Nur-Sultan, Kazakhstan.
-I study in NIS IB. I'm in the 9th grade.
+I study in NIS IB. I'm in the 10th grade.
