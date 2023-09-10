@@ -1,7 +1,7 @@
 Hello, my name is Daniyal, I am a Java Developer. I've been programming from 2020.
 
-I do know:
-- Java ( 3 month )
+I know:
+- Java ( 6 month )
 - C++ ( 5 months )
 - Python ( 6 months )
 - HTML, CSS, JavaScript ( 9 months )
