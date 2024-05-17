@@ -1,4 +1,4 @@
-Hello, my name is Daniyal, I am a FullStack Developer in IELTS 7/45. I've been programming from 2020.
+Hello, my name is Daniyal. I code.
 
 I know:
 - Java
